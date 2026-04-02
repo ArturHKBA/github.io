@@ -1,0 +1,28 @@
+### MAIN ###
+
+title: Welcome to my Portfolio
+#tagline: This is my Portfolio
+description: Hi, I’m Artur. I’m a Junior Software Developer dedicated to making technology actually work for people in healthcare. My background in game development taught me how to turn complex logic into smooth, intuitive experiences. Today, I use those skills to build digital tools that simplify the lives of healthcare providers, bridging the gap between high-tech innovation and real-world needs.
+
+### THEMES ###
+
+remote_theme: pages-themes/midnight@v0.2.0 # SOURCE CODE: https://github.com/pages-themes/midnight
+#remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/hacker@v0.2.0
+#remote_theme: pages-themes/architect@v0.2.0
+#remote_theme: pages-themes/cayman@v0.2.0
+#remote_theme: pages-themes/dinky@v0.2.0
+#remote_theme: pages-themes/leap-day@v0.2.0
+#remote_theme: pages-themes/merlot@v0.2.0
+#remote_theme: "jekyll/minima@1e8a445"
+#remote_theme: pages-themes/modernist@v0.2.0
+#remote_theme: pages-themes/slate@v0.2.0
+#remote_theme: pages-themes/tactile@v0.2.0
+#remote_theme: pages-themes/time-machine@v0.2.0
+
+### ARCHIVE ###
+
+#title: My Portfolio
+#logo: /asset/pics/Bild.jpg
+#description: Hi, I’m Artur.
+#theme: jekyll-theme-minimal
